@@ -1,0 +1,7 @@
+name: scitokens-cpp
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling=0.14.0
+  - libstdcxx-devel_linux-64=*=*19
+  - scitokens-cpp
